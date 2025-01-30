@@ -11,6 +11,7 @@ const options = [
   "3.Send Money",
   "4.Merchant",
   "5.Management",
+  "6.Heating up the branch with nonesense",
   "0. back",
 ];
 const ManagementOptions = [
